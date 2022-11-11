@@ -3,6 +3,6 @@ joblib==0.17.0
 lxml>=4.6.5
 numpy==1.19.4
 py4j==0.10.9
-pyspark==3.0.1
+pyspark==3.2.2
 threadpoolctl==2.1.0
 venv-pack==0.2.0
