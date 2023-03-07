@@ -1,4 +1,4 @@
-future==0.18.2
+future==0.18.3
 joblib==0.17.0
 lxml>=4.6.5
 numpy==1.19.4
